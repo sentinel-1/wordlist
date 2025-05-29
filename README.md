@@ -1,5 +1,10 @@
 # WordList Review System
 
+## Table of Contents
+
+1. [High-Level Overview](#high-level-overview)
+
+
 ### High-Level Overview
 
 #### What kind of app is it?
